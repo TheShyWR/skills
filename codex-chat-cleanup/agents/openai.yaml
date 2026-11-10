@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex 聊天遗留清理"
+  short_description: "扫描已无引用的聊天专属本地目录，保留现有会话文件并将遗留目录移入废纸篓"
+  default_prompt: "使用 $codex-chat-cleanup 扫描已删除聊天的本地遗留文件，并将符合条件的目录移入废纸篓。"
